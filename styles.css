@@ -1,0 +1,27 @@
+.container {
+	background-color: #FFFFFF;
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+}
+header {
+	background-color: #FFCC00;
+	padding-top: 40px;
+}
+h1 {
+	font-size: 40px;
+}
+body {
+	background-color: #99FF00;
+}
+#letter-content {
+	-webkit-column-count: 3;
+	column-count: 3;
+	
+}
+footer {
+	background-color: #202020;
+	color: #000000;
+	padding: 20px;
+	text-align: center;
+}

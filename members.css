@@ -1,0 +1,62 @@
+.container {
+	background-color: #FFFFFF;
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+}
+header {
+	background-color: #FFCC00;
+	padding-top: 40px;
+}
+h1 {
+	background-color: #3399FF;
+	text-align: center;
+	font-size: 28px;
+}
+body {
+	background-color: #99FF00;
+}
+footer {
+	background-color: #202020;
+	color: #000000;
+	padding: 20px;
+	text-align: center;
+}
+.bioright{
+	width: 47%;
+	float: right;
+	margin-bottom: 5%;
+}
+.bioleft{
+	width:47%;
+	float: left;
+	margin-right: 6%;
+	margin-bottom: 5%;
+}
+.bioleft img{
+	float: left;
+	width: 35%;
+
+}
+.bioright img{
+	float: left;
+	width: 35%;
+
+}
+.info {
+	float: right;
+	width: 65%;
+}
+hr {
+	border-color: #000000;
+}
+h2 {
+	font-size:22px;
+	background-color: #FFFF33;
+}
+
+
+
+
+
+
